@@ -88,6 +88,8 @@ pip install 'tritonclient[all]==2.64.0'
 # install longcat-video-avatar requirements
 conda install -c conda-forge librosa
 conda install -c conda-forge ffmpeg
+conda install -c conda-forge libsndfile
+
 pip install -r requirements_avatar.txt
 
 ```
